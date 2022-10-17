@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/smm", {data:[{}],fetch:{},mutations:[]});
